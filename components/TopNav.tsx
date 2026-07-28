@@ -16,6 +16,9 @@ export function TopNav() {
           <a href="https://github.com/charthouse-ltd" target="_blank" rel="noopener" className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-slate-100">
             GitHub
           </a>
+          <Link href="/pro" className="rounded-lg bg-blue-600 text-white px-3.5 py-1.5 font-medium hover:bg-blue-700 transition">
+            Get Pro
+          </Link>
         </nav>
       </div>
     </header>
